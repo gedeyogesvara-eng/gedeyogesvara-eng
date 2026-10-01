@@ -1,4 +1,4 @@
-## Hi there, saya Gede Yogesvara👋
+## Hi there, I am Gede Yogesvara👋
 
 <!--
 **gedeyogesvara-eng/gedeyogesvara-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +35,18 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+#### Let's Connect
+
+<p>
+  <a href="mailto:[gede.yogesvara@gmail.com]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="[https://www.linkedin.com/in/gede-yogi-yogesvara-dita-diasta-073987382?utm_source=share_via&utm_content=profile&utm_medium=member_android]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="[https://www.instagram.com/gedeyogesvara?stkn=MWxjN2J3OTR0cTZnZQ==]">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
