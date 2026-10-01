@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![halo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2k1bDcwOWExdXZhaXBvNWt2czJyNTRmcWpsZndpZXU2YjM2czg4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJLDuGq9AVLQcFMBWL/giphy.gif)
+![halo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZscXltZXM1aG9iYTN2c3p2a2MyNXVlcXY2eWxjMmlwdXB1eHVzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif)
 
 #### Tech Stack & Tools:
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=go,cpp,vscode,github" alt="Tech Stack" />
 </p>
 
-#### Statistik GitHub:
+#### Statistik GitHub
 
 <table align="center">
   <tr>
