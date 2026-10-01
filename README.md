@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, saya Gede Yogesvara👋
 
 <!--
 **gedeyogesvara-eng/gedeyogesvara-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,17 @@ Here are some ideas to get you started:
 <p>
   <img src="https://skillicons.dev/icons?i=go,cpp,vscode,github" alt="Tech Stack" />
 </p>
+
+#### Statistik GitHub:
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gedeyogesvara-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedeyogesvara-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
