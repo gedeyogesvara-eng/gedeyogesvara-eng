@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![halo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZscXltZXM1aG9iYTN2c3p2a2MyNXVlcXY2eWxjMmlwdXB1eHVzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif)
+
+#### Tech Stack & Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,cpp,vscode,github" alt="Tech Stack" />
+</p>
+
